@@ -2,7 +2,7 @@
 
 Analisis 9.993 baris transaksi toko retail Amerika Serikat (Jan 2014 – Des 2017) untuk memahami tren penjualan, profitabilitas per kategori dan wilayah, serta pengaruh diskon terhadap profit. Proyek ini memakai SQL (MySQL) untuk eksplorasi, cleaning, dan analisis, lalu Power BI untuk dashboard.
 
-![Dashboard Superstore](Imagei/Dashboard)
+![Dashboard Superstore](Image/Dashboard.jpg)
 
 ## 1. Masalah Bisnis
 
@@ -62,8 +62,7 @@ Hasil cleaning dibuat sebagai view `clean_superstore` yang berisi 9.993 baris.
 
 ## 6. Rekomendasi
 
-![Rekomendasi Bisnis](images/rekomendasi_bisnis.png)
-
+![Rekomendasi Bisnis](Image/rekomendasi_bisnis.png)
 Rekomendasi di atas berisi lima langkah: (1) batasi diskon di atas 20%, (2) perbaiki state yang merugi, (3) perbaiki profitabilitas Furniture, (4) siapkan musim akhir tahun, dan (5) dorong produk dan segmen yang untung. Tiap rekomendasi dilengkapi temuan, tindakan, dan ukuran sukses.
 
 Rekomendasi 4 dan 5 adalah hipotesis yang perlu diuji, bukan kesimpulan pasti.
