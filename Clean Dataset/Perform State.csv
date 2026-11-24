@@ -1,0 +1,50 @@
+State,Region,total_sales,total_profit,margin_persen,rata_rata_diskon,jumlah_pesanan
+California,West,356511.18,58962.64,16.54,0.073,798
+"New York",East,250428.62,58881.66,23.51,0.055,452
+Washington,West,98881.21,21107.39,21.35,0.066,200
+Michigan,Central,59633.98,17662.24,29.62,0.007,93
+Indiana,Central,45078.6,16336.79,36.24,0,59
+Georgia,South,39728.47,13444.01,33.84,0,74
+Virginia,South,51780.71,13096.25,25.29,0,82
+Minnesota,Central,27883.56,10351.4,37.12,0,37
+Kentucky,South,31349.29,9704.9,30.96,0,48
+Delaware,East,24798.83,8939.56,36.05,0.008,33
+"New Jersey",East,28458.74,8109.67,28.5,0.007,45
+"Rhode Island",East,21270.99,7252.37,34.1,0.013,22
+Maryland,East,22360.62,6707.68,30,0.003,37
+Wisconsin,Central,25786.34,6698.9,25.98,0,39
+Alabama,South,18437.29,5468.24,29.66,0,28
+Massachusetts,East,22446.46,5222.06,23.26,0.018,51
+Oklahoma,Central,15830.78,3990.5,25.21,0,28
+Nevada,West,14865.71,3098.96,20.85,0.053,16
+Connecticut,East,11576.83,2945.85,25.45,0.009,35
+Mississippi,South,10088.17,2910.64,28.85,0,23
+Arkansas,South,9225.06,2883.62,31.26,0,22
+Missouri,Central,13697.19,2866.35,20.93,0,23
+Utah,West,10516.1,2335.76,22.21,0.058,22
+Nebraska,Central,6971.4,1904.2,27.31,0,19
+Louisiana,South,7516.34,1788.84,23.8,0,18
+Montana,West,5173.15,1706.17,32.98,0.055,6
+"New Hampshire",East,6845.58,1537.37,22.46,0.012,14
+"South Carolina",South,7986.25,1532,19.18,0,20
+"District of Columbia",East,2865.02,1059.59,36.98,0,4
+Iowa,Central,4148.73,985.99,23.77,0,12
+"New Mexico",West,4061.18,971.75,23.93,0.055,16
+Kansas,Central,2881.02,828.45,28.76,0,13
+Idaho,West,2996.36,458.57,15.3,0.086,7
+"South Dakota",Central,1137.42,343.43,30.19,0,3
+"West Virginia",East,536.48,262.88,49,0,1
+Vermont,East,920.23,246.46,26.78,0,2
+"North Dakota",Central,919.91,230.15,25.02,0,2
+Maine,East,653.41,197.56,30.24,0,2
+Wyoming,West,1603.14,100.2,6.25,0.2,1
+Oregon,West,13809.84,-794.59,-5.75,0.28,45
+Arizona,West,30922.72,-2772.32,-8.97,0.311,85
+Tennessee,South,20820.01,-3414.41,-16.4,0.274,70
+Florida,South,73089.65,-3516.34,-4.81,0.306,158
+"North Carolina",South,45299.5,-5819.27,-12.85,0.28,110
+Colorado,West,29744.86,-6537.56,-21.98,0.327,67
+Illinois,Central,63076.42,-10178.47,-16.14,0.388,212
+Pennsylvania,East,92295.46,-12752.44,-13.82,0.326,220
+Ohio,East,63833.86,-15904.63,-24.92,0.323,181
+Texas,Central,128244.27,-17058.36,-13.3,0.359,376

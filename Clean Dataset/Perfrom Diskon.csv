@@ -1,0 +1,5 @@
+kelompok_diskon,jumlah_baris,total_sales,total_profit,margin_persen
+"1. Tanpa diskon",3814,875827.97,255750.12,29.2
+"2. Diskon 1-20%",2959,660595.37,77399.16,11.72
+"3. Diskon 21-40%",352,181513.56,-27267.34,-15.02
+"4. Diskon di atas 40%",694,111050.02,-81499.28,-73.39

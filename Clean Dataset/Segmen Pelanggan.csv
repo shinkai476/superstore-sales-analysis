@@ -1,0 +1,4 @@
+Segment,jumlah_pelanggan,jumlah_pesanan,total_sales,total_profit,margin_persen,rata_rata_nilai_pesanan
+Consumer,406,2045,905033.47,104434.18,11.54,442.56
+Corporate,234,1178,560093.44,68282.81,12.19,475.46
+"Home Office",144,708,363860.02,51665.67,14.2,513.93
