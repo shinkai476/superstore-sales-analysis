@@ -2,7 +2,7 @@
 
 Analisis 9.993 baris transaksi toko retail Amerika Serikat (Jan 2014 – Des 2017) untuk memahami tren penjualan, profitabilitas per kategori dan wilayah, serta pengaruh diskon terhadap profit. Proyek ini memakai SQL (MySQL) untuk eksplorasi, cleaning, dan analisis, lalu Power BI untuk dashboard.
 
-![Dashboard Superstore](images/dashboard.png)
+![Dashboard Superstore](Imagei/Dashboard)
 
 ## 1. Masalah Bisnis
 
@@ -101,4 +101,4 @@ README.md
 
 ## Penulis
 
-[Nama Anda] · linkedin.com/in/[username-anda]
+[Yudhoro Kunto Wibisono] · linkedin.com/in/yudhoro-kunto-wibisono-294734330/
